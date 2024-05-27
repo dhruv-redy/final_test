@@ -1,0 +1,9 @@
+Flask
+scikit-learn
+lime
+google-generativeai
+pandas
+numpy
+Pillow
+imgkit
+ipython
